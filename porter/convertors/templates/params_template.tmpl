@@ -5,23 +5,19 @@ import param
 {% for def_key, def_value in schema['definitions'].items() if schema.get('definitions')%}
 class {{ def_value["title"] }}(param.Parameterized):
     """{{ def_value["description"]}}"""
-{% for key, value in def_value['properties'].items() if value["type"] in mapping.simple.value.__members__  and not value.get("format")%}{{ key }}= param.{{ mapping.simple.value[value["type"]].value}}(default={{value.get('default')}})
-{% endfor %}
-{% for key, value in def_value['properties'].items() if value.get("format") and value.get("format") in mapping.formated.value.__members__%}{{ key }}= param.{{ mapping.formated.value[value["format"]].value}}(default={{value.get('default')}})
-{% endfor %}
-{% for key, value in def_value['properties'].items() if  value.get("type") in mapping.nested.value.__members__%}{{ key }}= param.{{ mapping.nested.value[value["type"]].value}}(default={{value.get('default')}})
-{% endfor %}
-{% for key, value in def_value['properties'].items() if  value.get("$ref")%}{{ key }}= param.{{ mapping.nested.value[value["type"]].value}}(default={{value.get('default')}})
+
+{% for key, value in def_value['properties'].items() if value["type"] in mapping.simple.value.__members__  and not value.get("format")%}    {{ key }}= param.{{ mapping.simple.value[value["type"]].value}}(default={{value.get('default')}})
+{% endfor %}{% for key, value in def_value['properties'].items() if value.get("format") and value.get("format") in mapping.formated.value.__members__%}    {{ key }}= param.{{ mapping.formated.value[value["format"]].value}}(default={{value.get('default')}})
+{% endfor %}{% for key, value in def_value['properties'].items() if  value.get("type") in mapping.nested.value.__members__%}    {{ key }}= param.{{ mapping.nested.value[value["type"]].value}}(default={{value.get('default')}})
+{% endfor %}{% for key, value in def_value['properties'].items() if  value.get("$ref")%}    {{ key }}= param.{{ mapping.nested.value[value["type"]].value}}(default={{value.get('default')}})
 {% endfor %}
 {% endfor %}
 
 class {{ schema["title"] }}(param.Parameterized):
     """{{ schema["description"]}}"""
-{% for key, value in schema['properties'].items() if value["type"] in mapping.simple.value.__members__  and not value.get("format")%}{{ key }}= param.{{ mapping.simple.value[value["type"]].value}}(default={{value.get('default')}})
-{% endfor %}
-{% for key, value in schema['properties'].items() if value.get("format") and value.get("format") in mapping.formated.value.__members__%}{{ key }}= param.{{ mapping.formated.value[value["format"]].value}}(default={{value.get('default')}})
-{% endfor %}
-{% for key, value in schema['properties'].items() if  value.get("type") in mapping.nested.value.__members__%}{{ key }}= param.{{ mapping.nested.value[value["type"]].value}}(default={{value.get('default')}})
-{% endfor %}
-{% for key, value in schema['properties'].items() if  value.get("$ref")%}{{ key }}= param.{{ mapping.nested.value[value["type"]].value}}(default={{value.get('default')}})
+
+{% for key, value in schema['properties'].items() if value["type"] in mapping.simple.value.__members__  and not value.get("format")%}    {{ key }}= param.{{ mapping.simple.value[value["type"]].value}}(default={{value.get('default')}})
+{% endfor %}{% for key, value in schema['properties'].items() if value.get("format") and value.get("format") in mapping.formated.value.__members__%}    {{ key }}= param.{{ mapping.formated.value[value["format"]].value}}(default={{value.get('default')}})
+{% endfor %}{% for key, value in schema['properties'].items() if  value.get("type") in mapping.nested.value.__members__%}    {{ key }}= param.{{ mapping.nested.value[value["type"]].value}}(default={{value.get('default')}})
+{% endfor %}{% for key, value in schema['properties'].items() if  value.get("$ref")%}    {{ key }}= param.{{ mapping.nested.value[value["type"]].value}}(default={{value.get('default')}})
 {% endfor %}

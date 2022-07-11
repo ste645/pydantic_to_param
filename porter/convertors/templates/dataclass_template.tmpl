@@ -6,6 +6,5 @@ import dataclasses
 @dataclasses.dataclass
 class {{ cls.__name__ }}:
     """{{ cls.__doc__ }}"""
-
 {% for key, value in cls.__annotations__.items() %}    {{ key }}: {{ value.__name__ if isinstance(value, type) else str(value) }}
 {% endfor %}
