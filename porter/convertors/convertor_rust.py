@@ -8,6 +8,7 @@ from typing import List, Dict
 class TableForMap(BaseModel):
     name: str
     data: List[Dict]
+    rust_template: str
 
 class RustConverterHashMap:
     """Pydantic Converter."""
@@ -18,7 +19,7 @@ class RustConverterHashMap:
             loader=PackageLoader(package_name="porter.convertors"),
             autoescape=select_autoescape(),
         )
-        template = env.get_template("rust_map_template.tmpl")
+        template = env.get_template(cls.rust_template)
         return template.render(
             cls=cls, inspect=inspect, isinstance=isinstance, type=type, str=str
         )

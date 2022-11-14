@@ -6,14 +6,15 @@ from porter.convertors.convertor_rust import TableForMap, RustConverterHashMap
 import json
 
 
-json_file = "/Users/stephenmcgrath/Projects/pydantic_to_param/underlyings_map.json"
+json_file = "underlyings_map.json"
 
 with open(json_file) as f:
     json_blob = json.load(f)
 
 table = TableForMap(
     name="underlyings_tickers",
-    data=json_blob
+    data=json_blob,
+    rust_template = "rust_map_template.tmpl"
 )
 
 if __name__ == "__main__":
