@@ -11,7 +11,7 @@ class TableForMap(BaseModel):
     rust_template: str
 
 class RustConverterHashMap:
-    """Pydantic Converter."""
+    """Json Converter."""
 
     def convert_to_hashmap(self, cls):
         """Convert the json file and dataclass to hashmap."""
