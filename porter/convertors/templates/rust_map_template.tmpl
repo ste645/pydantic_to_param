@@ -1,0 +1,9 @@
+"""AUTO GENERATED HASHMAP for {{ cls.name }}."""
+
+HashMap::from([
+{% for item in cls.data %}    ("{{ item.ticker }}".to_string(), TickerData{
+{% for key in item %} {{key}}: "{{ item[key]}}".to_string().to_owned(),
+{% endfor %} }),
+{% endfor %}
+])
+

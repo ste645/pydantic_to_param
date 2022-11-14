@@ -1,0 +1,2507 @@
+[
+  {
+    "ticker": "AUDCAD BGN Curncy",
+    "underlying": "AUDCAD",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "AUDUSD BGN Curncy",
+    "underlying": "AUDUSD",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "CADCHF BGN Curncy",
+    "underlying": "CADCHF",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "CADDKK BGN Curncy",
+    "underlying": "CADDKK",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "CADHKD BGN Curncy",
+    "underlying": "CADHKD",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "CADHUF BGN Curncy",
+    "underlying": "CADHUF",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "CADILS CMPN Curncy",
+    "underlying": "CADILS",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "CADINR BGN Curncy",
+    "underlying": "CADINR",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "CADJPY BGN Curncy",
+    "underlying": "CADJPY",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "CADKRW CMPN Curncy",
+    "underlying": "CADKRW",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "CADMXN BGN Curncy",
+    "underlying": "CADMXN",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "CADNOK BGN Curncy",
+    "underlying": "CADNOK",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "CADSEK BGN Curncy",
+    "underlying": "CADSEK",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "CADSGD BGN Curncy",
+    "underlying": "CADSGD",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "CADZAR BGN Curncy",
+    "underlying": "CADZAR",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "EURAUD BGN Curncy",
+    "underlying": "EURAUD",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "EURCAD BGN Curncy",
+    "underlying": "EURCAD",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "EURCHF BGN Curncy",
+    "underlying": "EURCHF",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "EURCZK BGN Curncy",
+    "underlying": "EURCZK",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "EURDKK BGN Curncy",
+    "underlying": "EURDKK",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "EURGBP BGN Curncy",
+    "underlying": "EURGBP",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "EURILS BGN Curncy",
+    "underlying": "EURILS",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "EURJPY BGN Curncy",
+    "underlying": "EURJPY",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "EURNOK BGN Curncy",
+    "underlying": "EURNOK",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "EURPLN BGN Curncy",
+    "underlying": "EURPLN",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "EURSEK BGN Curncy",
+    "underlying": "EURSEK",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "EURTRY BGN Curncy",
+    "underlying": "EURTRY",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "EURUSD BGN Curncy",
+    "underlying": "EURUSD",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "GBPAUD BGN Curncy",
+    "underlying": "GBPAUD",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "GBPCAD BGN Curncy",
+    "underlying": "GBPCAD",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "GBPCHF BGN Curncy",
+    "underlying": "GBPCHF",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "GBPCZK BGN Curncy",
+    "underlying": "GBPCZK",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "GBPDKK BGN Curncy",
+    "underlying": "GBPDKK",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "GBPEUR BGN Curncy",
+    "underlying": "GBPEUR",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "GBPHKD BGN Curncy",
+    "underlying": "GBPHKD",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "GBPJPY BGN Curncy",
+    "underlying": "GBPJPY",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "GBPNOK BGN Curncy",
+    "underlying": "GBPNOK",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "GBPPLN BGN Curncy",
+    "underlying": "GBPPLN",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "GBPSEK BGN Curncy",
+    "underlying": "GBPSEK",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "GBPTRY BGN Curncy",
+    "underlying": "GBPTRY",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "GBPUSD BGN Curncy",
+    "underlying": "GBPUSD",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "NZDCAD BGN Curncy",
+    "underlying": "NZDCAD",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "NZDUSD BGN Curncy",
+    "underlying": "NZDUSD",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "USDBRL BGN Curncy",
+    "underlying": "USDBRL",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "USDCAD BGN Curncy",
+    "underlying": "USDCAD",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "USDCHF BGN Curncy",
+    "underlying": "USDCHF",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "USDCLP BGN Curncy",
+    "underlying": "USDCLP",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "USDCNH BGN Curncy",
+    "underlying": "USDCNH",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "USDCNY BGN Curncy",
+    "underlying": "USDCNY",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "USDCZK BGN Curncy",
+    "underlying": "USDCZK",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "USDDKK BGN Curncy",
+    "underlying": "USDDKK",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "USDHKD BGN Curncy",
+    "underlying": "USDHKD",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "USDHRK BGN Curncy",
+    "underlying": "USDHRK",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "USDIDR CMPN Curncy",
+    "underlying": "USDIDR",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "USDINR BGN Curncy",
+    "underlying": "USDINR",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "USDJPY BGN Curncy",
+    "underlying": "USDJPY",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "USDKRW BGN Curncy",
+    "underlying": "USDKRW",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "USDMYR BGN Curncy",
+    "underlying": "USDMYR",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "USDNGN BGN Curncy",
+    "underlying": "USDNGN",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "USDNOK BGN Curncy",
+    "underlying": "USDNOK",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "USDPLN BGN Curncy",
+    "underlying": "USDPLN",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "USDRUB BGN Curncy",
+    "underlying": "USDRUB",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "USDSEK BGN Curncy",
+    "underlying": "USDSEK",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "USDTHB BGN Curncy",
+    "underlying": "USDTHB",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "USDTRY BGN Curncy",
+    "underlying": "USDTRY",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "USDVND BGN Curncy",
+    "underlying": "USDVND",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "USDZAR BGN Curncy",
+    "underlying": "USDZAR",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "USDZMW BGN Curncy",
+    "underlying": "USDZMW",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "EURNZD BGN Curncy",
+    "underlying": "EURNZD",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "USDILS BGN Curncy",
+    "underlying": "USDILS",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "AUDJPY BGN Curncy",
+    "underlying": "AUDJPY",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "SEKJPY BGN Curncy",
+    "underlying": "SEKJPY",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "NOKJPY BGN Curncy",
+    "underlying": "NOKJPY",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "CHFJPY BGN Curncy",
+    "underlying": "CHFJPY",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "USDEGP BGN Curncy",
+    "underlying": "USDEGP",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "USDMXN BGN Curncy",
+    "underlying": "USDMXN",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "GBPCNH BGN Curncy",
+    "underlying": "GBPCNH",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "GBPCNY BGN Curncy",
+    "underlying": "GBPCNY",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "GBPMXN BGN Curncy",
+    "underlying": "GBPMXN",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "CHFSEK BGN Curncy",
+    "underlying": "CHFSEK",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "USDSGD BGN Curncy",
+    "underlying": "USDSGD",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "GBPNZD BGN Curncy",
+    "underlying": "GBPNZD",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "EURSGD BGN Curncy",
+    "underlying": "EURSGD",
+    "tenor": "Spot"
+  },
+  {
+    "ticker": "AUDCADON Curncy",
+    "underlying": "AUDCAD",
+    "tenor": "ON"
+  },
+  {
+    "ticker": "AUDCADSW Curncy",
+    "underlying": "AUDCAD",
+    "tenor": "SW"
+  },
+  {
+    "ticker": "AUDCAD1W Curncy",
+    "underlying": "AUDCAD",
+    "tenor": "1W"
+  },
+  {
+    "ticker": "AUDCAD2W Curncy",
+    "underlying": "AUDCAD",
+    "tenor": "2W"
+  },
+  {
+    "ticker": "AUDCAD3W Curncy",
+    "underlying": "AUDCAD",
+    "tenor": "3W"
+  },
+  {
+    "ticker": "AUDCAD1M Curncy",
+    "underlying": "AUDCAD",
+    "tenor": "1M"
+  },
+  {
+    "ticker": "AUDCAD2M Curncy",
+    "underlying": "AUDCAD",
+    "tenor": "2M"
+  },
+  {
+    "ticker": "AUDCAD3M Curncy",
+    "underlying": "AUDCAD",
+    "tenor": "3M"
+  },
+  {
+    "ticker": "AUDCAD4M Curncy",
+    "underlying": "AUDCAD",
+    "tenor": "4M"
+  },
+  {
+    "ticker": "AUDCAD5M Curncy",
+    "underlying": "AUDCAD",
+    "tenor": "5M"
+  },
+  {
+    "ticker": "AUDCAD6M Curncy",
+    "underlying": "AUDCAD",
+    "tenor": "6M"
+  },
+  {
+    "ticker": "AUDCAD7M Curncy",
+    "underlying": "AUDCAD",
+    "tenor": "7M"
+  },
+  {
+    "ticker": "AUDCAD8M Curncy",
+    "underlying": "AUDCAD",
+    "tenor": "8M"
+  },
+  {
+    "ticker": "AUDCAD9M Curncy",
+    "underlying": "AUDCAD",
+    "tenor": "9M"
+  },
+  {
+    "ticker": "AUDCAD10M Curncy",
+    "underlying": "AUDCAD",
+    "tenor": "10M"
+  },
+  {
+    "ticker": "AUDCAD11M Curncy",
+    "underlying": "AUDCAD",
+    "tenor": "11M"
+  },
+  {
+    "ticker": "AUDCAD12M Curncy",
+    "underlying": "AUDCAD",
+    "tenor": "12M"
+  },
+  {
+    "ticker": "AUDCAD18M Curncy",
+    "underlying": "AUDCAD",
+    "tenor": "18M"
+  },
+  {
+    "ticker": "AUDCAD2Y Curncy",
+    "underlying": "AUDCAD",
+    "tenor": "2Y"
+  },
+  {
+    "ticker": "AUDCAD3Y Curncy",
+    "underlying": "AUDCAD",
+    "tenor": "3Y"
+  },
+  {
+    "ticker": "AUDCAD4Y Curncy",
+    "underlying": "AUDCAD",
+    "tenor": "4Y"
+  },
+  {
+    "ticker": "AUDCAD5Y Curncy",
+    "underlying": "AUDCAD",
+    "tenor": "5Y"
+  },
+  {
+    "ticker": "AUDCAD6Y Curncy",
+    "underlying": "AUDCAD",
+    "tenor": "6Y"
+  },
+  {
+    "ticker": "AUDCAD7Y Curncy",
+    "underlying": "AUDCAD",
+    "tenor": "7Y"
+  },
+  {
+    "ticker": "AUDCAD8Y Curncy",
+    "underlying": "AUDCAD",
+    "tenor": "8Y"
+  },
+  {
+    "ticker": "AUDCAD9Y Curncy",
+    "underlying": "AUDCAD",
+    "tenor": "9Y"
+  },
+  {
+    "ticker": "AUDCAD10Y Curncy",
+    "underlying": "AUDCAD",
+    "tenor": "10Y"
+  },
+  {
+    "ticker": "AUDUSDON Curncy",
+    "underlying": "AUDUSD",
+    "tenor": "ON"
+  },
+  {
+    "ticker": "AUDUSDSW Curncy",
+    "underlying": "AUDUSD",
+    "tenor": "SW"
+  },
+  {
+    "ticker": "AUDUSD1W Curncy",
+    "underlying": "AUDUSD",
+    "tenor": "1W"
+  },
+  {
+    "ticker": "AUDUSD2W Curncy",
+    "underlying": "AUDUSD",
+    "tenor": "2W"
+  },
+  {
+    "ticker": "AUDUSD3W Curncy",
+    "underlying": "AUDUSD",
+    "tenor": "3W"
+  },
+  {
+    "ticker": "AUDUSD1M Curncy",
+    "underlying": "AUDUSD",
+    "tenor": "1M"
+  },
+  {
+    "ticker": "AUDUSD2M Curncy",
+    "underlying": "AUDUSD",
+    "tenor": "2M"
+  },
+  {
+    "ticker": "AUDUSD3M Curncy",
+    "underlying": "AUDUSD",
+    "tenor": "3M"
+  },
+  {
+    "ticker": "AUDUSD4M Curncy",
+    "underlying": "AUDUSD",
+    "tenor": "4M"
+  },
+  {
+    "ticker": "AUDUSD5M Curncy",
+    "underlying": "AUDUSD",
+    "tenor": "5M"
+  },
+  {
+    "ticker": "AUDUSD6M Curncy",
+    "underlying": "AUDUSD",
+    "tenor": "6M"
+  },
+  {
+    "ticker": "AUDUSD7M Curncy",
+    "underlying": "AUDUSD",
+    "tenor": "7M"
+  },
+  {
+    "ticker": "AUDUSD8M Curncy",
+    "underlying": "AUDUSD",
+    "tenor": "8M"
+  },
+  {
+    "ticker": "AUDUSD9M Curncy",
+    "underlying": "AUDUSD",
+    "tenor": "9M"
+  },
+  {
+    "ticker": "AUDUSD10M Curncy",
+    "underlying": "AUDUSD",
+    "tenor": "10M"
+  },
+  {
+    "ticker": "AUDUSD11M Curncy",
+    "underlying": "AUDUSD",
+    "tenor": "11M"
+  },
+  {
+    "ticker": "AUDUSD12M Curncy",
+    "underlying": "AUDUSD",
+    "tenor": "12M"
+  },
+  {
+    "ticker": "AUDUSD18M Curncy",
+    "underlying": "AUDUSD",
+    "tenor": "18M"
+  },
+  {
+    "ticker": "AUDUSD2Y Curncy",
+    "underlying": "AUDUSD",
+    "tenor": "2Y"
+  },
+  {
+    "ticker": "AUDUSD3Y Curncy",
+    "underlying": "AUDUSD",
+    "tenor": "3Y"
+  },
+  {
+    "ticker": "AUDUSD4Y Curncy",
+    "underlying": "AUDUSD",
+    "tenor": "4Y"
+  },
+  {
+    "ticker": "AUDUSD5Y Curncy",
+    "underlying": "AUDUSD",
+    "tenor": "5Y"
+  },
+  {
+    "ticker": "AUDUSD6Y Curncy",
+    "underlying": "AUDUSD",
+    "tenor": "6Y"
+  },
+  {
+    "ticker": "AUDUSD7Y Curncy",
+    "underlying": "AUDUSD",
+    "tenor": "7Y"
+  },
+  {
+    "ticker": "AUDUSD8Y Curncy",
+    "underlying": "AUDUSD",
+    "tenor": "8Y"
+  },
+  {
+    "ticker": "AUDUSD9Y Curncy",
+    "underlying": "AUDUSD",
+    "tenor": "9Y"
+  },
+  {
+    "ticker": "AUDUSD10Y Curncy",
+    "underlying": "AUDUSD",
+    "tenor": "10Y"
+  },
+  {
+    "ticker": "CADCHFON Curncy",
+    "underlying": "CADCHF",
+    "tenor": "ON"
+  },
+  {
+    "ticker": "CADCHFSW Curncy",
+    "underlying": "CADCHF",
+    "tenor": "SW"
+  },
+  {
+    "ticker": "CADCHF1W Curncy",
+    "underlying": "CADCHF",
+    "tenor": "1W"
+  },
+  {
+    "ticker": "CADCHF2W Curncy",
+    "underlying": "CADCHF",
+    "tenor": "2W"
+  },
+  {
+    "ticker": "CADCHF3W Curncy",
+    "underlying": "CADCHF",
+    "tenor": "3W"
+  },
+  {
+    "ticker": "CADCHF1M Curncy",
+    "underlying": "CADCHF",
+    "tenor": "1M"
+  },
+  {
+    "ticker": "CADCHF2M Curncy",
+    "underlying": "CADCHF",
+    "tenor": "2M"
+  },
+  {
+    "ticker": "CADCHF3M Curncy",
+    "underlying": "CADCHF",
+    "tenor": "3M"
+  },
+  {
+    "ticker": "CADCHF4M Curncy",
+    "underlying": "CADCHF",
+    "tenor": "4M"
+  },
+  {
+    "ticker": "CADCHF5M Curncy",
+    "underlying": "CADCHF",
+    "tenor": "5M"
+  },
+  {
+    "ticker": "CADCHF6M Curncy",
+    "underlying": "CADCHF",
+    "tenor": "6M"
+  },
+  {
+    "ticker": "CADCHF7M Curncy",
+    "underlying": "CADCHF",
+    "tenor": "7M"
+  },
+  {
+    "ticker": "CADCHF8M Curncy",
+    "underlying": "CADCHF",
+    "tenor": "8M"
+  },
+  {
+    "ticker": "CADCHF9M Curncy",
+    "underlying": "CADCHF",
+    "tenor": "9M"
+  },
+  {
+    "ticker": "CADCHF10M Curncy",
+    "underlying": "CADCHF",
+    "tenor": "10M"
+  },
+  {
+    "ticker": "CADCHF11M Curncy",
+    "underlying": "CADCHF",
+    "tenor": "11M"
+  },
+  {
+    "ticker": "CADCHF12M Curncy",
+    "underlying": "CADCHF",
+    "tenor": "12M"
+  },
+  {
+    "ticker": "CADCHF18M Curncy",
+    "underlying": "CADCHF",
+    "tenor": "18M"
+  },
+  {
+    "ticker": "CADCHF2Y Curncy",
+    "underlying": "CADCHF",
+    "tenor": "2Y"
+  },
+  {
+    "ticker": "CADCHF3Y Curncy",
+    "underlying": "CADCHF",
+    "tenor": "3Y"
+  },
+  {
+    "ticker": "CADCHF4Y Curncy",
+    "underlying": "CADCHF",
+    "tenor": "4Y"
+  },
+  {
+    "ticker": "CADCHF5Y Curncy",
+    "underlying": "CADCHF",
+    "tenor": "5Y"
+  },
+  {
+    "ticker": "CADCHF6Y Curncy",
+    "underlying": "CADCHF",
+    "tenor": "6Y"
+  },
+  {
+    "ticker": "CADCHF7Y Curncy",
+    "underlying": "CADCHF",
+    "tenor": "7Y"
+  },
+  {
+    "ticker": "CADCHF8Y Curncy",
+    "underlying": "CADCHF",
+    "tenor": "8Y"
+  },
+  {
+    "ticker": "CADCHF9Y Curncy",
+    "underlying": "CADCHF",
+    "tenor": "9Y"
+  },
+  {
+    "ticker": "CADCHF10Y Curncy",
+    "underlying": "CADCHF",
+    "tenor": "10Y"
+  },
+  {
+    "ticker": "CADDKKON Curncy",
+    "underlying": "CADDKK",
+    "tenor": "ON"
+  },
+  {
+    "ticker": "CADDKKSW Curncy",
+    "underlying": "CADDKK",
+    "tenor": "SW"
+  },
+  {
+    "ticker": "CADDKK1W Curncy",
+    "underlying": "CADDKK",
+    "tenor": "1W"
+  },
+  {
+    "ticker": "CADDKK2W Curncy",
+    "underlying": "CADDKK",
+    "tenor": "2W"
+  },
+  {
+    "ticker": "CADDKK3W Curncy",
+    "underlying": "CADDKK",
+    "tenor": "3W"
+  },
+  {
+    "ticker": "CADDKK1M Curncy",
+    "underlying": "CADDKK",
+    "tenor": "1M"
+  },
+  {
+    "ticker": "CADDKK2M Curncy",
+    "underlying": "CADDKK",
+    "tenor": "2M"
+  },
+  {
+    "ticker": "CADDKK3M Curncy",
+    "underlying": "CADDKK",
+    "tenor": "3M"
+  },
+  {
+    "ticker": "CADDKK4M Curncy",
+    "underlying": "CADDKK",
+    "tenor": "4M"
+  },
+  {
+    "ticker": "CADDKK5M Curncy",
+    "underlying": "CADDKK",
+    "tenor": "5M"
+  },
+  {
+    "ticker": "CADDKK6M Curncy",
+    "underlying": "CADDKK",
+    "tenor": "6M"
+  },
+  {
+    "ticker": "CADDKK7M Curncy",
+    "underlying": "CADDKK",
+    "tenor": "7M"
+  },
+  {
+    "ticker": "CADDKK8M Curncy",
+    "underlying": "CADDKK",
+    "tenor": "8M"
+  },
+  {
+    "ticker": "CADDKK9M Curncy",
+    "underlying": "CADDKK",
+    "tenor": "9M"
+  },
+  {
+    "ticker": "CADDKK10M Curncy",
+    "underlying": "CADDKK",
+    "tenor": "10M"
+  },
+  {
+    "ticker": "CADDKK11M Curncy",
+    "underlying": "CADDKK",
+    "tenor": "11M"
+  },
+  {
+    "ticker": "CADDKK12M Curncy",
+    "underlying": "CADDKK",
+    "tenor": "12M"
+  },
+  {
+    "ticker": "CADDKK18M Curncy",
+    "underlying": "CADDKK",
+    "tenor": "18M"
+  },
+  {
+    "ticker": "CADDKK2Y Curncy",
+    "underlying": "CADDKK",
+    "tenor": "2Y"
+  },
+  {
+    "ticker": "CADDKK3Y Curncy",
+    "underlying": "CADDKK",
+    "tenor": "3Y"
+  },
+  {
+    "ticker": "CADDKK4Y Curncy",
+    "underlying": "CADDKK",
+    "tenor": "4Y"
+  },
+  {
+    "ticker": "CADDKK5Y Curncy",
+    "underlying": "CADDKK",
+    "tenor": "5Y"
+  },
+  {
+    "ticker": "CADDKK6Y Curncy",
+    "underlying": "CADDKK",
+    "tenor": "6Y"
+  },
+  {
+    "ticker": "CADDKK7Y Curncy",
+    "underlying": "CADDKK",
+    "tenor": "7Y"
+  },
+  {
+    "ticker": "CADDKK8Y Curncy",
+    "underlying": "CADDKK",
+    "tenor": "8Y"
+  },
+  {
+    "ticker": "CADDKK9Y Curncy",
+    "underlying": "CADDKK",
+    "tenor": "9Y"
+  },
+  {
+    "ticker": "CADDKK10Y Curncy",
+    "underlying": "CADDKK",
+    "tenor": "10Y"
+  },
+  {
+    "ticker": "CADHKDON Curncy",
+    "underlying": "CADHKD",
+    "tenor": "ON"
+  },
+  {
+    "ticker": "CADHKDSW Curncy",
+    "underlying": "CADHKD",
+    "tenor": "SW"
+  },
+  {
+    "ticker": "CADHKD1W Curncy",
+    "underlying": "CADHKD",
+    "tenor": "1W"
+  },
+  {
+    "ticker": "CADHKD2W Curncy",
+    "underlying": "CADHKD",
+    "tenor": "2W"
+  },
+  {
+    "ticker": "CADHKD3W Curncy",
+    "underlying": "CADHKD",
+    "tenor": "3W"
+  },
+  {
+    "ticker": "CADHKD1M Curncy",
+    "underlying": "CADHKD",
+    "tenor": "1M"
+  },
+  {
+    "ticker": "CADHKD2M Curncy",
+    "underlying": "CADHKD",
+    "tenor": "2M"
+  },
+  {
+    "ticker": "CADHKD3M Curncy",
+    "underlying": "CADHKD",
+    "tenor": "3M"
+  },
+  {
+    "ticker": "CADHKD4M Curncy",
+    "underlying": "CADHKD",
+    "tenor": "4M"
+  },
+  {
+    "ticker": "CADHKD5M Curncy",
+    "underlying": "CADHKD",
+    "tenor": "5M"
+  },
+  {
+    "ticker": "CADHKD6M Curncy",
+    "underlying": "CADHKD",
+    "tenor": "6M"
+  },
+  {
+    "ticker": "CADHKD7M Curncy",
+    "underlying": "CADHKD",
+    "tenor": "7M"
+  },
+  {
+    "ticker": "CADHKD8M Curncy",
+    "underlying": "CADHKD",
+    "tenor": "8M"
+  },
+  {
+    "ticker": "CADHKD9M Curncy",
+    "underlying": "CADHKD",
+    "tenor": "9M"
+  },
+  {
+    "ticker": "CADHKD10M Curncy",
+    "underlying": "CADHKD",
+    "tenor": "10M"
+  },
+  {
+    "ticker": "CADHKD11M Curncy",
+    "underlying": "CADHKD",
+    "tenor": "11M"
+  },
+  {
+    "ticker": "CADHKD12M Curncy",
+    "underlying": "CADHKD",
+    "tenor": "12M"
+  },
+  {
+    "ticker": "CADHKD18M Curncy",
+    "underlying": "CADHKD",
+    "tenor": "18M"
+  },
+  {
+    "ticker": "CADHKD2Y Curncy",
+    "underlying": "CADHKD",
+    "tenor": "2Y"
+  },
+  {
+    "ticker": "CADHKD3Y Curncy",
+    "underlying": "CADHKD",
+    "tenor": "3Y"
+  },
+  {
+    "ticker": "CADHKD4Y Curncy",
+    "underlying": "CADHKD",
+    "tenor": "4Y"
+  },
+  {
+    "ticker": "CADHKD5Y Curncy",
+    "underlying": "CADHKD",
+    "tenor": "5Y"
+  },
+  {
+    "ticker": "CADHKD6Y Curncy",
+    "underlying": "CADHKD",
+    "tenor": "6Y"
+  },
+  {
+    "ticker": "CADHKD7Y Curncy",
+    "underlying": "CADHKD",
+    "tenor": "7Y"
+  },
+  {
+    "ticker": "CADHKD8Y Curncy",
+    "underlying": "CADHKD",
+    "tenor": "8Y"
+  },
+  {
+    "ticker": "CADHKD9Y Curncy",
+    "underlying": "CADHKD",
+    "tenor": "9Y"
+  },
+  {
+    "ticker": "CADHKD10Y Curncy",
+    "underlying": "CADHKD",
+    "tenor": "10Y"
+  },
+  {
+    "ticker": "CADHUFON Curncy",
+    "underlying": "CADHUF",
+    "tenor": "ON"
+  },
+  {
+    "ticker": "CADHUFSW Curncy",
+    "underlying": "CADHUF",
+    "tenor": "SW"
+  },
+  {
+    "ticker": "CADHUF1W Curncy",
+    "underlying": "CADHUF",
+    "tenor": "1W"
+  },
+  {
+    "ticker": "CADHUF2W Curncy",
+    "underlying": "CADHUF",
+    "tenor": "2W"
+  },
+  {
+    "ticker": "CADHUF3W Curncy",
+    "underlying": "CADHUF",
+    "tenor": "3W"
+  },
+  {
+    "ticker": "CADHUF1M Curncy",
+    "underlying": "CADHUF",
+    "tenor": "1M"
+  },
+  {
+    "ticker": "CADHUF2M Curncy",
+    "underlying": "CADHUF",
+    "tenor": "2M"
+  },
+  {
+    "ticker": "CADHUF3M Curncy",
+    "underlying": "CADHUF",
+    "tenor": "3M"
+  },
+  {
+    "ticker": "CADHUF4M Curncy",
+    "underlying": "CADHUF",
+    "tenor": "4M"
+  },
+  {
+    "ticker": "CADHUF5M Curncy",
+    "underlying": "CADHUF",
+    "tenor": "5M"
+  },
+  {
+    "ticker": "CADHUF6M Curncy",
+    "underlying": "CADHUF",
+    "tenor": "6M"
+  },
+  {
+    "ticker": "CADHUF7M Curncy",
+    "underlying": "CADHUF",
+    "tenor": "7M"
+  },
+  {
+    "ticker": "CADHUF8M Curncy",
+    "underlying": "CADHUF",
+    "tenor": "8M"
+  },
+  {
+    "ticker": "CADHUF9M Curncy",
+    "underlying": "CADHUF",
+    "tenor": "9M"
+  },
+  {
+    "ticker": "CADHUF10M Curncy",
+    "underlying": "CADHUF",
+    "tenor": "10M"
+  },
+  {
+    "ticker": "CADHUF11M Curncy",
+    "underlying": "CADHUF",
+    "tenor": "11M"
+  },
+  {
+    "ticker": "CADHUF12M Curncy",
+    "underlying": "CADHUF",
+    "tenor": "12M"
+  },
+  {
+    "ticker": "CADHUF18M Curncy",
+    "underlying": "CADHUF",
+    "tenor": "18M"
+  },
+  {
+    "ticker": "CADHUF2Y Curncy",
+    "underlying": "CADHUF",
+    "tenor": "2Y"
+  },
+  {
+    "ticker": "CADHUF3Y Curncy",
+    "underlying": "CADHUF",
+    "tenor": "3Y"
+  },
+  {
+    "ticker": "CADHUF4Y Curncy",
+    "underlying": "CADHUF",
+    "tenor": "4Y"
+  },
+  {
+    "ticker": "CADHUF5Y Curncy",
+    "underlying": "CADHUF",
+    "tenor": "5Y"
+  },
+  {
+    "ticker": "CADHUF6Y Curncy",
+    "underlying": "CADHUF",
+    "tenor": "6Y"
+  },
+  {
+    "ticker": "CADHUF7Y Curncy",
+    "underlying": "CADHUF",
+    "tenor": "7Y"
+  },
+  {
+    "ticker": "CADHUF8Y Curncy",
+    "underlying": "CADHUF",
+    "tenor": "8Y"
+  },
+  {
+    "ticker": "CADHUF9Y Curncy",
+    "underlying": "CADHUF",
+    "tenor": "9Y"
+  },
+  {
+    "ticker": "CADHUF10Y Curncy",
+    "underlying": "CADHUF",
+    "tenor": "10Y"
+  },
+  {
+    "ticker": "CADILSON CMPN Curncy",
+    "underlying": "CADILS",
+    "tenor": "ON"
+  },
+  {
+    "ticker": "CADILSSW CMPN Curncy",
+    "underlying": "CADILS",
+    "tenor": "SW"
+  },
+  {
+    "ticker": "CADILS1W CMPN Curncy",
+    "underlying": "CADILS",
+    "tenor": "1W"
+  },
+  {
+    "ticker": "CADILS2W CMPN Curncy",
+    "underlying": "CADILS",
+    "tenor": "2W"
+  },
+  {
+    "ticker": "CADILS3W CMPN Curncy",
+    "underlying": "CADILS",
+    "tenor": "3W"
+  },
+  {
+    "ticker": "CADILS1M CMPN Curncy",
+    "underlying": "CADILS",
+    "tenor": "1M"
+  },
+  {
+    "ticker": "CADILS2M CMPN Curncy",
+    "underlying": "CADILS",
+    "tenor": "2M"
+  },
+  {
+    "ticker": "CADILS3M CMPN Curncy",
+    "underlying": "CADILS",
+    "tenor": "3M"
+  },
+  {
+    "ticker": "CADILS4M CMPN Curncy",
+    "underlying": "CADILS",
+    "tenor": "4M"
+  },
+  {
+    "ticker": "CADILS5M CMPN Curncy",
+    "underlying": "CADILS",
+    "tenor": "5M"
+  },
+  {
+    "ticker": "CADILS6M CMPN Curncy",
+    "underlying": "CADILS",
+    "tenor": "6M"
+  },
+  {
+    "ticker": "CADILS7M CMPN Curncy",
+    "underlying": "CADILS",
+    "tenor": "7M"
+  },
+  {
+    "ticker": "CADILS8M CMPN Curncy",
+    "underlying": "CADILS",
+    "tenor": "8M"
+  },
+  {
+    "ticker": "CADILS9M CMPN Curncy",
+    "underlying": "CADILS",
+    "tenor": "9M"
+  },
+  {
+    "ticker": "CADILS10M CMPN Curncy",
+    "underlying": "CADILS",
+    "tenor": "10M"
+  },
+  {
+    "ticker": "CADILS11M CMPN Curncy",
+    "underlying": "CADILS",
+    "tenor": "11M"
+  },
+  {
+    "ticker": "CADILS12M CMPN Curncy",
+    "underlying": "CADILS",
+    "tenor": "12M"
+  },
+  {
+    "ticker": "CADILS18M CMPN Curncy",
+    "underlying": "CADILS",
+    "tenor": "18M"
+  },
+  {
+    "ticker": "CADILS2Y CMPN Curncy",
+    "underlying": "CADILS",
+    "tenor": "2Y"
+  },
+  {
+    "ticker": "CADILS3Y CMPN Curncy",
+    "underlying": "CADILS",
+    "tenor": "3Y"
+  },
+  {
+    "ticker": "CADILS4Y CMPN Curncy",
+    "underlying": "CADILS",
+    "tenor": "4Y"
+  },
+  {
+    "ticker": "CADILS5Y CMPN Curncy",
+    "underlying": "CADILS",
+    "tenor": "5Y"
+  },
+  {
+    "ticker": "CADILS6Y CMPN Curncy",
+    "underlying": "CADILS",
+    "tenor": "6Y"
+  },
+  {
+    "ticker": "CADILS7Y CMPN Curncy",
+    "underlying": "CADILS",
+    "tenor": "7Y"
+  },
+  {
+    "ticker": "CADILS8Y CMPN Curncy",
+    "underlying": "CADILS",
+    "tenor": "8Y"
+  },
+  {
+    "ticker": "CADILS9Y CMPN Curncy",
+    "underlying": "CADILS",
+    "tenor": "9Y"
+  },
+  {
+    "ticker": "CADILS10Y CMPN Curncy",
+    "underlying": "CADILS",
+    "tenor": "10Y"
+  },
+  {
+    "ticker": "CADINRON Curncy",
+    "underlying": "CADINR",
+    "tenor": "ON"
+  },
+  {
+    "ticker": "CADINRSW Curncy",
+    "underlying": "CADINR",
+    "tenor": "SW"
+  },
+  {
+    "ticker": "CADINR1W Curncy",
+    "underlying": "CADINR",
+    "tenor": "1W"
+  },
+  {
+    "ticker": "CADINR2W Curncy",
+    "underlying": "CADINR",
+    "tenor": "2W"
+  },
+  {
+    "ticker": "CADINR3W Curncy",
+    "underlying": "CADINR",
+    "tenor": "3W"
+  },
+  {
+    "ticker": "CADINR1M Curncy",
+    "underlying": "CADINR",
+    "tenor": "1M"
+  },
+  {
+    "ticker": "CADINR2M Curncy",
+    "underlying": "CADINR",
+    "tenor": "2M"
+  },
+  {
+    "ticker": "CADINR3M Curncy",
+    "underlying": "CADINR",
+    "tenor": "3M"
+  },
+  {
+    "ticker": "CADINR4M Curncy",
+    "underlying": "CADINR",
+    "tenor": "4M"
+  },
+  {
+    "ticker": "CADINR5M Curncy",
+    "underlying": "CADINR",
+    "tenor": "5M"
+  },
+  {
+    "ticker": "CADINR6M Curncy",
+    "underlying": "CADINR",
+    "tenor": "6M"
+  },
+  {
+    "ticker": "CADINR7M Curncy",
+    "underlying": "CADINR",
+    "tenor": "7M"
+  },
+  {
+    "ticker": "CADINR8M Curncy",
+    "underlying": "CADINR",
+    "tenor": "8M"
+  },
+  {
+    "ticker": "CADINR9M Curncy",
+    "underlying": "CADINR",
+    "tenor": "9M"
+  },
+  {
+    "ticker": "CADINR10M Curncy",
+    "underlying": "CADINR",
+    "tenor": "10M"
+  },
+  {
+    "ticker": "CADINR11M Curncy",
+    "underlying": "CADINR",
+    "tenor": "11M"
+  },
+  {
+    "ticker": "CADINR12M Curncy",
+    "underlying": "CADINR",
+    "tenor": "12M"
+  },
+  {
+    "ticker": "CADINR18M Curncy",
+    "underlying": "CADINR",
+    "tenor": "18M"
+  },
+  {
+    "ticker": "CADINR2Y Curncy",
+    "underlying": "CADINR",
+    "tenor": "2Y"
+  },
+  {
+    "ticker": "CADINR3Y Curncy",
+    "underlying": "CADINR",
+    "tenor": "3Y"
+  },
+  {
+    "ticker": "CADINR4Y Curncy",
+    "underlying": "CADINR",
+    "tenor": "4Y"
+  },
+  {
+    "ticker": "CADINR5Y Curncy",
+    "underlying": "CADINR",
+    "tenor": "5Y"
+  },
+  {
+    "ticker": "CADINR6Y Curncy",
+    "underlying": "CADINR",
+    "tenor": "6Y"
+  },
+  {
+    "ticker": "CADINR7Y Curncy",
+    "underlying": "CADINR",
+    "tenor": "7Y"
+  },
+  {
+    "ticker": "CADINR8Y Curncy",
+    "underlying": "CADINR",
+    "tenor": "8Y"
+  },
+  {
+    "ticker": "CADINR9Y Curncy",
+    "underlying": "CADINR",
+    "tenor": "9Y"
+  },
+  {
+    "ticker": "CADINR10Y Curncy",
+    "underlying": "CADINR",
+    "tenor": "10Y"
+  },
+  {
+    "ticker": "CADJPYON Curncy",
+    "underlying": "CADJPY",
+    "tenor": "ON"
+  },
+  {
+    "ticker": "CADJPYSW Curncy",
+    "underlying": "CADJPY",
+    "tenor": "SW"
+  },
+  {
+    "ticker": "CADJPY1W Curncy",
+    "underlying": "CADJPY",
+    "tenor": "1W"
+  },
+  {
+    "ticker": "CADJPY2W Curncy",
+    "underlying": "CADJPY",
+    "tenor": "2W"
+  },
+  {
+    "ticker": "CADJPY3W Curncy",
+    "underlying": "CADJPY",
+    "tenor": "3W"
+  },
+  {
+    "ticker": "CADJPY1M Curncy",
+    "underlying": "CADJPY",
+    "tenor": "1M"
+  },
+  {
+    "ticker": "CADJPY2M Curncy",
+    "underlying": "CADJPY",
+    "tenor": "2M"
+  },
+  {
+    "ticker": "CADJPY3M Curncy",
+    "underlying": "CADJPY",
+    "tenor": "3M"
+  },
+  {
+    "ticker": "CADJPY4M Curncy",
+    "underlying": "CADJPY",
+    "tenor": "4M"
+  },
+  {
+    "ticker": "CADJPY5M Curncy",
+    "underlying": "CADJPY",
+    "tenor": "5M"
+  },
+  {
+    "ticker": "CADJPY6M Curncy",
+    "underlying": "CADJPY",
+    "tenor": "6M"
+  },
+  {
+    "ticker": "CADJPY7M Curncy",
+    "underlying": "CADJPY",
+    "tenor": "7M"
+  },
+  {
+    "ticker": "CADJPY8M Curncy",
+    "underlying": "CADJPY",
+    "tenor": "8M"
+  },
+  {
+    "ticker": "CADJPY9M Curncy",
+    "underlying": "CADJPY",
+    "tenor": "9M"
+  },
+  {
+    "ticker": "CADJPY10M Curncy",
+    "underlying": "CADJPY",
+    "tenor": "10M"
+  },
+  {
+    "ticker": "CADJPY11M Curncy",
+    "underlying": "CADJPY",
+    "tenor": "11M"
+  },
+  {
+    "ticker": "CADJPY12M Curncy",
+    "underlying": "CADJPY",
+    "tenor": "12M"
+  },
+  {
+    "ticker": "CADJPY18M Curncy",
+    "underlying": "CADJPY",
+    "tenor": "18M"
+  },
+  {
+    "ticker": "CADJPY2Y Curncy",
+    "underlying": "CADJPY",
+    "tenor": "2Y"
+  },
+  {
+    "ticker": "CADJPY3Y Curncy",
+    "underlying": "CADJPY",
+    "tenor": "3Y"
+  },
+  {
+    "ticker": "CADJPY4Y Curncy",
+    "underlying": "CADJPY",
+    "tenor": "4Y"
+  },
+  {
+    "ticker": "CADJPY5Y Curncy",
+    "underlying": "CADJPY",
+    "tenor": "5Y"
+  },
+  {
+    "ticker": "CADJPY6Y Curncy",
+    "underlying": "CADJPY",
+    "tenor": "6Y"
+  },
+  {
+    "ticker": "CADJPY7Y Curncy",
+    "underlying": "CADJPY",
+    "tenor": "7Y"
+  },
+  {
+    "ticker": "CADJPY8Y Curncy",
+    "underlying": "CADJPY",
+    "tenor": "8Y"
+  },
+  {
+    "ticker": "CADJPY9Y Curncy",
+    "underlying": "CADJPY",
+    "tenor": "9Y"
+  },
+  {
+    "ticker": "CADJPY10Y Curncy",
+    "underlying": "CADJPY",
+    "tenor": "10Y"
+  },
+  {
+    "ticker": "CADKRWON Curncy",
+    "underlying": "CADKRW",
+    "tenor": "ON"
+  },
+  {
+    "ticker": "CADKRWSW Curncy",
+    "underlying": "CADKRW",
+    "tenor": "SW"
+  },
+  {
+    "ticker": "CADKRW1W Curncy",
+    "underlying": "CADKRW",
+    "tenor": "1W"
+  },
+  {
+    "ticker": "CADKRW2W Curncy",
+    "underlying": "CADKRW",
+    "tenor": "2W"
+  },
+  {
+    "ticker": "CADKRW3W Curncy",
+    "underlying": "CADKRW",
+    "tenor": "3W"
+  },
+  {
+    "ticker": "CADKRW1M Curncy",
+    "underlying": "CADKRW",
+    "tenor": "1M"
+  },
+  {
+    "ticker": "CADKRW2M Curncy",
+    "underlying": "CADKRW",
+    "tenor": "2M"
+  },
+  {
+    "ticker": "CADKRW3M Curncy",
+    "underlying": "CADKRW",
+    "tenor": "3M"
+  },
+  {
+    "ticker": "CADKRW4M Curncy",
+    "underlying": "CADKRW",
+    "tenor": "4M"
+  },
+  {
+    "ticker": "CADKRW5M Curncy",
+    "underlying": "CADKRW",
+    "tenor": "5M"
+  },
+  {
+    "ticker": "CADKRW6M Curncy",
+    "underlying": "CADKRW",
+    "tenor": "6M"
+  },
+  {
+    "ticker": "CADKRW7M Curncy",
+    "underlying": "CADKRW",
+    "tenor": "7M"
+  },
+  {
+    "ticker": "CADKRW8M Curncy",
+    "underlying": "CADKRW",
+    "tenor": "8M"
+  },
+  {
+    "ticker": "CADKRW9M Curncy",
+    "underlying": "CADKRW",
+    "tenor": "9M"
+  },
+  {
+    "ticker": "CADKRW10M Curncy",
+    "underlying": "CADKRW",
+    "tenor": "10M"
+  },
+  {
+    "ticker": "CADKRW11M Curncy",
+    "underlying": "CADKRW",
+    "tenor": "11M"
+  },
+  {
+    "ticker": "CADKRW12M Curncy",
+    "underlying": "CADKRW",
+    "tenor": "12M"
+  },
+  {
+    "ticker": "CADKRW18M Curncy",
+    "underlying": "CADKRW",
+    "tenor": "18M"
+  },
+  {
+    "ticker": "CADKRW2Y Curncy",
+    "underlying": "CADKRW",
+    "tenor": "2Y"
+  },
+  {
+    "ticker": "CADKRW3Y Curncy",
+    "underlying": "CADKRW",
+    "tenor": "3Y"
+  },
+  {
+    "ticker": "CADKRW4Y Curncy",
+    "underlying": "CADKRW",
+    "tenor": "4Y"
+  },
+  {
+    "ticker": "CADKRW5Y Curncy",
+    "underlying": "CADKRW",
+    "tenor": "5Y"
+  },
+  {
+    "ticker": "CADKRW6Y Curncy",
+    "underlying": "CADKRW",
+    "tenor": "6Y"
+  },
+  {
+    "ticker": "CADKRW7Y Curncy",
+    "underlying": "CADKRW",
+    "tenor": "7Y"
+  },
+  {
+    "ticker": "CADKRW8Y Curncy",
+    "underlying": "CADKRW",
+    "tenor": "8Y"
+  },
+  {
+    "ticker": "CADKRW9Y Curncy",
+    "underlying": "CADKRW",
+    "tenor": "9Y"
+  },
+  {
+    "ticker": "CADKRW10Y Curncy",
+    "underlying": "CADKRW",
+    "tenor": "10Y"
+  },
+  {
+    "ticker": "CADMXNON Curncy",
+    "underlying": "CADMXN",
+    "tenor": "ON"
+  },
+  {
+    "ticker": "CADMXNSW Curncy",
+    "underlying": "CADMXN",
+    "tenor": "SW"
+  },
+  {
+    "ticker": "CADMXN1W Curncy",
+    "underlying": "CADMXN",
+    "tenor": "1W"
+  },
+  {
+    "ticker": "CADMXN2W Curncy",
+    "underlying": "CADMXN",
+    "tenor": "2W"
+  },
+  {
+    "ticker": "CADMXN3W Curncy",
+    "underlying": "CADMXN",
+    "tenor": "3W"
+  },
+  {
+    "ticker": "CADMXN1M Curncy",
+    "underlying": "CADMXN",
+    "tenor": "1M"
+  },
+  {
+    "ticker": "CADMXN2M Curncy",
+    "underlying": "CADMXN",
+    "tenor": "2M"
+  },
+  {
+    "ticker": "CADMXN3M Curncy",
+    "underlying": "CADMXN",
+    "tenor": "3M"
+  },
+  {
+    "ticker": "CADMXN4M Curncy",
+    "underlying": "CADMXN",
+    "tenor": "4M"
+  },
+  {
+    "ticker": "CADMXN5M Curncy",
+    "underlying": "CADMXN",
+    "tenor": "5M"
+  },
+  {
+    "ticker": "CADMXN6M Curncy",
+    "underlying": "CADMXN",
+    "tenor": "6M"
+  },
+  {
+    "ticker": "CADMXN7M Curncy",
+    "underlying": "CADMXN",
+    "tenor": "7M"
+  },
+  {
+    "ticker": "CADMXN8M Curncy",
+    "underlying": "CADMXN",
+    "tenor": "8M"
+  },
+  {
+    "ticker": "CADMXN9M Curncy",
+    "underlying": "CADMXN",
+    "tenor": "9M"
+  },
+  {
+    "ticker": "CADMXN10M Curncy",
+    "underlying": "CADMXN",
+    "tenor": "10M"
+  },
+  {
+    "ticker": "CADMXN11M Curncy",
+    "underlying": "CADMXN",
+    "tenor": "11M"
+  },
+  {
+    "ticker": "CADMXN12M Curncy",
+    "underlying": "CADMXN",
+    "tenor": "12M"
+  },
+  {
+    "ticker": "CADMXN18M Curncy",
+    "underlying": "CADMXN",
+    "tenor": "18M"
+  },
+  {
+    "ticker": "CADMXN2Y Curncy",
+    "underlying": "CADMXN",
+    "tenor": "2Y"
+  },
+  {
+    "ticker": "CADMXN3Y Curncy",
+    "underlying": "CADMXN",
+    "tenor": "3Y"
+  },
+  {
+    "ticker": "CADMXN4Y Curncy",
+    "underlying": "CADMXN",
+    "tenor": "4Y"
+  },
+  {
+    "ticker": "CADMXN5Y Curncy",
+    "underlying": "CADMXN",
+    "tenor": "5Y"
+  },
+  {
+    "ticker": "CADMXN6Y Curncy",
+    "underlying": "CADMXN",
+    "tenor": "6Y"
+  },
+  {
+    "ticker": "CADMXN7Y Curncy",
+    "underlying": "CADMXN",
+    "tenor": "7Y"
+  },
+  {
+    "ticker": "CADMXN8Y Curncy",
+    "underlying": "CADMXN",
+    "tenor": "8Y"
+  },
+  {
+    "ticker": "CADMXN9Y Curncy",
+    "underlying": "CADMXN",
+    "tenor": "9Y"
+  },
+  {
+    "ticker": "CADMXN10Y Curncy",
+    "underlying": "CADMXN",
+    "tenor": "10Y"
+  },
+  {
+    "ticker": "CADNOKON Curncy",
+    "underlying": "CADNOK",
+    "tenor": "ON"
+  },
+  {
+    "ticker": "CADNOKSW Curncy",
+    "underlying": "CADNOK",
+    "tenor": "SW"
+  },
+  {
+    "ticker": "CADNOK1W Curncy",
+    "underlying": "CADNOK",
+    "tenor": "1W"
+  },
+  {
+    "ticker": "CADNOK2W Curncy",
+    "underlying": "CADNOK",
+    "tenor": "2W"
+  },
+  {
+    "ticker": "CADNOK3W Curncy",
+    "underlying": "CADNOK",
+    "tenor": "3W"
+  },
+  {
+    "ticker": "CADNOK1M Curncy",
+    "underlying": "CADNOK",
+    "tenor": "1M"
+  },
+  {
+    "ticker": "CADNOK2M Curncy",
+    "underlying": "CADNOK",
+    "tenor": "2M"
+  },
+  {
+    "ticker": "CADNOK3M Curncy",
+    "underlying": "CADNOK",
+    "tenor": "3M"
+  },
+  {
+    "ticker": "CADNOK4M Curncy",
+    "underlying": "CADNOK",
+    "tenor": "4M"
+  },
+  {
+    "ticker": "CADNOK5M Curncy",
+    "underlying": "CADNOK",
+    "tenor": "5M"
+  },
+  {
+    "ticker": "CADNOK6M Curncy",
+    "underlying": "CADNOK",
+    "tenor": "6M"
+  },
+  {
+    "ticker": "CADNOK7M Curncy",
+    "underlying": "CADNOK",
+    "tenor": "7M"
+  },
+  {
+    "ticker": "CADNOK8M Curncy",
+    "underlying": "CADNOK",
+    "tenor": "8M"
+  },
+  {
+    "ticker": "CADNOK9M Curncy",
+    "underlying": "CADNOK",
+    "tenor": "9M"
+  },
+  {
+    "ticker": "CADNOK10M Curncy",
+    "underlying": "CADNOK",
+    "tenor": "10M"
+  },
+  {
+    "ticker": "CADNOK11M Curncy",
+    "underlying": "CADNOK",
+    "tenor": "11M"
+  },
+  {
+    "ticker": "CADNOK12M Curncy",
+    "underlying": "CADNOK",
+    "tenor": "12M"
+  },
+  {
+    "ticker": "CADNOK18M Curncy",
+    "underlying": "CADNOK",
+    "tenor": "18M"
+  },
+  {
+    "ticker": "CADNOK2Y Curncy",
+    "underlying": "CADNOK",
+    "tenor": "2Y"
+  },
+  {
+    "ticker": "CADNOK3Y Curncy",
+    "underlying": "CADNOK",
+    "tenor": "3Y"
+  },
+  {
+    "ticker": "CADNOK4Y Curncy",
+    "underlying": "CADNOK",
+    "tenor": "4Y"
+  },
+  {
+    "ticker": "CADNOK5Y Curncy",
+    "underlying": "CADNOK",
+    "tenor": "5Y"
+  },
+  {
+    "ticker": "CADNOK6Y Curncy",
+    "underlying": "CADNOK",
+    "tenor": "6Y"
+  },
+  {
+    "ticker": "CADNOK7Y Curncy",
+    "underlying": "CADNOK",
+    "tenor": "7Y"
+  },
+  {
+    "ticker": "CADNOK8Y Curncy",
+    "underlying": "CADNOK",
+    "tenor": "8Y"
+  },
+  {
+    "ticker": "CADNOK9Y Curncy",
+    "underlying": "CADNOK",
+    "tenor": "9Y"
+  },
+  {
+    "ticker": "CADNOK10Y Curncy",
+    "underlying": "CADNOK",
+    "tenor": "10Y"
+  },
+  {
+    "ticker": "CADSEKON Curncy",
+    "underlying": "CADSEK",
+    "tenor": "ON"
+  },
+  {
+    "ticker": "CADSEKSW Curncy",
+    "underlying": "CADSEK",
+    "tenor": "SW"
+  },
+  {
+    "ticker": "CADSEK1W Curncy",
+    "underlying": "CADSEK",
+    "tenor": "1W"
+  },
+  {
+    "ticker": "CADSEK2W Curncy",
+    "underlying": "CADSEK",
+    "tenor": "2W"
+  },
+  {
+    "ticker": "CADSEK3W Curncy",
+    "underlying": "CADSEK",
+    "tenor": "3W"
+  },
+  {
+    "ticker": "CADSEK1M Curncy",
+    "underlying": "CADSEK",
+    "tenor": "1M"
+  },
+  {
+    "ticker": "CADSEK2M Curncy",
+    "underlying": "CADSEK",
+    "tenor": "2M"
+  },
+  {
+    "ticker": "CADSEK3M Curncy",
+    "underlying": "CADSEK",
+    "tenor": "3M"
+  },
+  {
+    "ticker": "CADSEK4M Curncy",
+    "underlying": "CADSEK",
+    "tenor": "4M"
+  },
+  {
+    "ticker": "CADSEK5M Curncy",
+    "underlying": "CADSEK",
+    "tenor": "5M"
+  },
+  {
+    "ticker": "CADSEK6M Curncy",
+    "underlying": "CADSEK",
+    "tenor": "6M"
+  },
+  {
+    "ticker": "CADSEK7M Curncy",
+    "underlying": "CADSEK",
+    "tenor": "7M"
+  },
+  {
+    "ticker": "CADSEK8M Curncy",
+    "underlying": "CADSEK",
+    "tenor": "8M"
+  },
+  {
+    "ticker": "CADSEK9M Curncy",
+    "underlying": "CADSEK",
+    "tenor": "9M"
+  },
+  {
+    "ticker": "CADSEK10M Curncy",
+    "underlying": "CADSEK",
+    "tenor": "10M"
+  },
+  {
+    "ticker": "CADSEK11M Curncy",
+    "underlying": "CADSEK",
+    "tenor": "11M"
+  },
+  {
+    "ticker": "CADSEK12M Curncy",
+    "underlying": "CADSEK",
+    "tenor": "12M"
+  },
+  {
+    "ticker": "CADSEK18M Curncy",
+    "underlying": "CADSEK",
+    "tenor": "18M"
+  },
+  {
+    "ticker": "CADSEK2Y Curncy",
+    "underlying": "CADSEK",
+    "tenor": "2Y"
+  },
+  {
+    "ticker": "CADSEK3Y Curncy",
+    "underlying": "CADSEK",
+    "tenor": "3Y"
+  },
+  {
+    "ticker": "CADSEK4Y Curncy",
+    "underlying": "CADSEK",
+    "tenor": "4Y"
+  },
+  {
+    "ticker": "CADSEK5Y Curncy",
+    "underlying": "CADSEK",
+    "tenor": "5Y"
+  },
+  {
+    "ticker": "CADSEK6Y Curncy",
+    "underlying": "CADSEK",
+    "tenor": "6Y"
+  },
+  {
+    "ticker": "CADSEK7Y Curncy",
+    "underlying": "CADSEK",
+    "tenor": "7Y"
+  },
+  {
+    "ticker": "CADSEK8Y Curncy",
+    "underlying": "CADSEK",
+    "tenor": "8Y"
+  },
+  {
+    "ticker": "CADSEK9Y Curncy",
+    "underlying": "CADSEK",
+    "tenor": "9Y"
+  },
+  {
+    "ticker": "CADSEK10Y Curncy",
+    "underlying": "CADSEK",
+    "tenor": "10Y"
+  },
+  {
+    "ticker": "CADSGDON Curncy",
+    "underlying": "CADSGD",
+    "tenor": "ON"
+  },
+  {
+    "ticker": "CADSGDSW Curncy",
+    "underlying": "CADSGD",
+    "tenor": "SW"
+  },
+  {
+    "ticker": "CADSGD1W Curncy",
+    "underlying": "CADSGD",
+    "tenor": "1W"
+  },
+  {
+    "ticker": "CADSGD2W Curncy",
+    "underlying": "CADSGD",
+    "tenor": "2W"
+  },
+  {
+    "ticker": "CADSGD3W Curncy",
+    "underlying": "CADSGD",
+    "tenor": "3W"
+  },
+  {
+    "ticker": "CADSGD1M Curncy",
+    "underlying": "CADSGD",
+    "tenor": "1M"
+  },
+  {
+    "ticker": "CADSGD2M Curncy",
+    "underlying": "CADSGD",
+    "tenor": "2M"
+  },
+  {
+    "ticker": "CADSGD3M Curncy",
+    "underlying": "CADSGD",
+    "tenor": "3M"
+  },
+  {
+    "ticker": "CADSGD4M Curncy",
+    "underlying": "CADSGD",
+    "tenor": "4M"
+  },
+  {
+    "ticker": "CADSGD5M Curncy",
+    "underlying": "CADSGD",
+    "tenor": "5M"
+  },
+  {
+    "ticker": "CADSGD6M Curncy",
+    "underlying": "CADSGD",
+    "tenor": "6M"
+  },
+  {
+    "ticker": "CADSGD7M Curncy",
+    "underlying": "CADSGD",
+    "tenor": "7M"
+  },
+  {
+    "ticker": "CADSGD8M Curncy",
+    "underlying": "CADSGD",
+    "tenor": "8M"
+  },
+  {
+    "ticker": "CADSGD9M Curncy",
+    "underlying": "CADSGD",
+    "tenor": "9M"
+  },
+  {
+    "ticker": "CADSGD10M Curncy",
+    "underlying": "CADSGD",
+    "tenor": "10M"
+  },
+  {
+    "ticker": "CADSGD11M Curncy",
+    "underlying": "CADSGD",
+    "tenor": "11M"
+  },
+  {
+    "ticker": "CADSGD12M Curncy",
+    "underlying": "CADSGD",
+    "tenor": "12M"
+  },
+  {
+    "ticker": "CADSGD18M Curncy",
+    "underlying": "CADSGD",
+    "tenor": "18M"
+  },
+  {
+    "ticker": "CADSGD2Y Curncy",
+    "underlying": "CADSGD",
+    "tenor": "2Y"
+  },
+  {
+    "ticker": "CADSGD3Y Curncy",
+    "underlying": "CADSGD",
+    "tenor": "3Y"
+  },
+  {
+    "ticker": "CADSGD4Y Curncy",
+    "underlying": "CADSGD",
+    "tenor": "4Y"
+  },
+  {
+    "ticker": "CADSGD5Y Curncy",
+    "underlying": "CADSGD",
+    "tenor": "5Y"
+  },
+  {
+    "ticker": "CADSGD6Y Curncy",
+    "underlying": "CADSGD",
+    "tenor": "6Y"
+  },
+  {
+    "ticker": "CADSGD7Y Curncy",
+    "underlying": "CADSGD",
+    "tenor": "7Y"
+  },
+  {
+    "ticker": "CADSGD8Y Curncy",
+    "underlying": "CADSGD",
+    "tenor": "8Y"
+  },
+  {
+    "ticker": "CADSGD9Y Curncy",
+    "underlying": "CADSGD",
+    "tenor": "9Y"
+  },
+  {
+    "ticker": "CADSGD10Y Curncy",
+    "underlying": "CADSGD",
+    "tenor": "10Y"
+  },
+  {
+    "ticker": "CADZARON CMPN Curncy",
+    "underlying": "CADZAR",
+    "tenor": "ON"
+  },
+  {
+    "ticker": "CADZARSW CMPN Curncy",
+    "underlying": "CADZAR",
+    "tenor": "SW"
+  },
+  {
+    "ticker": "CADZAR1W CMPN Curncy",
+    "underlying": "CADZAR",
+    "tenor": "1W"
+  },
+  {
+    "ticker": "CADZAR2W CMPN Curncy",
+    "underlying": "CADZAR",
+    "tenor": "2W"
+  },
+  {
+    "ticker": "CADZAR3W CMPN Curncy",
+    "underlying": "CADZAR",
+    "tenor": "3W"
+  },
+  {
+    "ticker": "CADZAR1M CMPN Curncy",
+    "underlying": "CADZAR",
+    "tenor": "1M"
+  },
+  {
+    "ticker": "CADZAR2M CMPN Curncy",
+    "underlying": "CADZAR",
+    "tenor": "2M"
+  },
+  {
+    "ticker": "CADZAR3M CMPN Curncy",
+    "underlying": "CADZAR",
+    "tenor": "3M"
+  },
+  {
+    "ticker": "CADZAR4M CMPN Curncy",
+    "underlying": "CADZAR",
+    "tenor": "4M"
+  },
+  {
+    "ticker": "CADZAR5M CMPN Curncy",
+    "underlying": "CADZAR",
+    "tenor": "5M"
+  },
+  {
+    "ticker": "CADZAR6M CMPN Curncy",
+    "underlying": "CADZAR",
+    "tenor": "6M"
+  },
+  {
+    "ticker": "CADZAR7M CMPN Curncy",
+    "underlying": "CADZAR",
+    "tenor": "7M"
+  },
+  {
+    "ticker": "CADZAR8M CMPN Curncy",
+    "underlying": "CADZAR",
+    "tenor": "8M"
+  },
+  {
+    "ticker": "CADZAR9M CMPN Curncy",
+    "underlying": "CADZAR",
+    "tenor": "9M"
+  },
+  {
+    "ticker": "CADZAR10M CMPN Curncy",
+    "underlying": "CADZAR",
+    "tenor": "10M"
+  },
+  {
+    "ticker": "CADZAR11M CMPN Curncy",
+    "underlying": "CADZAR",
+    "tenor": "11M"
+  },
+  {
+    "ticker": "CADZAR12M CMPN Curncy",
+    "underlying": "CADZAR",
+    "tenor": "12M"
+  },
+  {
+    "ticker": "CADZAR18M CMPN Curncy",
+    "underlying": "CADZAR",
+    "tenor": "18M"
+  },
+  {
+    "ticker": "CADZAR2Y CMPN Curncy",
+    "underlying": "CADZAR",
+    "tenor": "2Y"
+  },
+  {
+    "ticker": "CADZAR3Y CMPN Curncy",
+    "underlying": "CADZAR",
+    "tenor": "3Y"
+  },
+  {
+    "ticker": "CADZAR4Y CMPN Curncy",
+    "underlying": "CADZAR",
+    "tenor": "4Y"
+  },
+  {
+    "ticker": "CADZAR5Y CMPN Curncy",
+    "underlying": "CADZAR",
+    "tenor": "5Y"
+  },
+  {
+    "ticker": "CADZAR6Y CMPN Curncy",
+    "underlying": "CADZAR",
+    "tenor": "6Y"
+  },
+  {
+    "ticker": "CADZAR7Y CMPN Curncy",
+    "underlying": "CADZAR",
+    "tenor": "7Y"
+  },
+  {
+    "ticker": "CADZAR8Y CMPN Curncy",
+    "underlying": "CADZAR",
+    "tenor": "8Y"
+  },
+  {
+    "ticker": "CADZAR9Y CMPN Curncy",
+    "underlying": "CADZAR",
+    "tenor": "9Y"
+  },
+  {
+    "ticker": "CADZAR10Y CMPN Curncy",
+    "underlying": "CADZAR",
+    "tenor": "10Y"
+  },
+  {
+    "ticker": "EURAUDON Curncy",
+    "underlying": "EURAUD",
+    "tenor": "ON"
+  },
+  {
+    "ticker": "EURAUDSW Curncy",
+    "underlying": "EURAUD",
+    "tenor": "SW"
+  },
+  {
+    "ticker": "EURAUD1W Curncy",
+    "underlying": "EURAUD",
+    "tenor": "1W"
+  },
+  {
+    "ticker": "EURAUD2W Curncy",
+    "underlying": "EURAUD",
+    "tenor": "2W"
+  },
+  {
+    "ticker": "EURAUD3W Curncy",
+    "underlying": "EURAUD",
+    "tenor": "3W"
+  },
+  {
+    "ticker": "EURAUD1M Curncy",
+    "underlying": "EURAUD",
+    "tenor": "1M"
+  },
+  {
+    "ticker": "EURAUD2M Curncy",
+    "underlying": "EURAUD",
+    "tenor": "2M"
+  },
+  {
+    "ticker": "EURAUD3M Curncy",
+    "underlying": "EURAUD",
+    "tenor": "3M"
+  },
+  {
+    "ticker": "EURAUD4M Curncy",
+    "underlying": "EURAUD",
+    "tenor": "4M"
+  },
+  {
+    "ticker": "EURAUD5M Curncy",
+    "underlying": "EURAUD",
+    "tenor": "5M"
+  },
+  {
+    "ticker": "EURAUD6M Curncy",
+    "underlying": "EURAUD",
+    "tenor": "6M"
+  },
+  {
+    "ticker": "EURAUD7M Curncy",
+    "underlying": "EURAUD",
+    "tenor": "7M"
+  },
+  {
+    "ticker": "EURAUD8M Curncy",
+    "underlying": "EURAUD",
+    "tenor": "8M"
+  }
+]
